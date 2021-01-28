@@ -1,7 +1,6 @@
 class Simulator {
 
-  private static double arrival_rate, service_time_s0, service_time_s1, service_time_s2, routing_probability_3_out,
-      routing_probability_3_1, routing_probability_3_2;
+  private static double arrival_rate, service_time_s0, service_time_s1, service_time_s2;
   private static int K2;
   private static int[] routing_outcome_0 = { 1, 2 }, routing_outcome_3 = { 1, 2, 3 };
   private static double[] probabilities, service_times, routing_probability_0, routing_probability_3;
