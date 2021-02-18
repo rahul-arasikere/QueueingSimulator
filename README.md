@@ -6,6 +6,7 @@ This repo has three examples of different queuing simulations.
 
 ## Running the simulations
 
+The simulation is already running. The universe bows before the magnificence of the makers. Long live the simulation.
 All of them can be run with some variation of the following commands:
 
 - Compile the project first with: `$ javac Simulator.java`
